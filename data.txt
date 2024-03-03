@@ -1,0 +1,10 @@
+python
+tree
+apple
+iron
+monitor
+banana
+car
+elephant
+area
+lpnwh
